@@ -1,0 +1,18 @@
+program Project1;
+
+uses
+  Forms,
+  SignInUnit in 'SignInUnit.pas' {SignInForm},
+  DesktopUnit in 'DesktopUnit.pas' {DesktopForm},
+  UserDBUnit in 'UserDBUnit.pas',
+  SignUpUnit in 'SignUpUnit.pas' {SignUpForm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TDesktopForm, DesktopForm);
+  Application.CreateForm(TSignInForm, SignInForm);
+  Application.CreateForm(TSignUpForm, SignUpForm);
+  Application.Run;
+end.

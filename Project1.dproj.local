@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.dfm=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\TextSettingsUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.dfm=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\TextEditorUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,C:\BolgenOS\Unit1.dfm=C:\BolgenOS\PlayerUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\BolgenOS\Unit1.dfm=C:\BolgenOS\BrowserUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\BolgenOS\CalculatorUnit.dfm=C:\BolgenOS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=C:\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,C:\BolgenOS\Unit1.pas=C:\BolgenOS\PlayerUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\BolgenOS\Unit1.pas=C:\BolgenOS\BrowserUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,=C:\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\User\Desktop\BolgenOS\Unit1.dfm=C:\Users\User\Desktop\BolgenOS\WinRarUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,C:\Users\User\Desktop\BolgenOS\Unit1.pas=C:\Users\User\Desktop\BolgenOS\ReestrUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\User\Desktop\BolgenOS\Unit1.pas=C:\Users\User\Desktop\BolgenOS\WinRarUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\Users\User\Desktop\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=C:\Users\User\Desktop\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,C:\Users\User\Desktop\BolgenOS\Unit1.dfm=C:\Users\User\Desktop\BolgenOS\ReestrUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.pas=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\TextSettingsUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.pas=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\TextEditorUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Users\User\Desktop\207_П\Котов Никита\Delphi\BolgenOS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\BolgenOS\CalculatorUnit.pas=C:\BolgenOS\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,35 @@
+unit DesktopUnit;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, StdCtrls, Buttons, jpeg;
+
+type
+  TDesktopForm = class(TForm)
+    Panel1: TPanel;
+    Image1: TImage;
+    procedure FormActivate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DesktopForm: TDesktopForm;
+
+implementation
+
+uses SignInUnit;
+
+{$R *.dfm}
+
+procedure TDesktopForm.FormActivate(Sender: TObject);
+begin
+  self.Hide;
+  SignInForm.Show;
+end;
+
+end.
